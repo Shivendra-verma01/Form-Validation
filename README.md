@@ -1,4 +1,4 @@
-Registration Form Validation
+Description:
 Registration form validation is the process of verifying user input to ensure that all required fields are filled correctly before the form is submitted. 
 It checks details like username, email, password, and phone number for accuracy, format, and security.
 
