@@ -4,12 +4,12 @@ It checks details like username, email, password, and phone number for accuracy,
 
 Benefits:
 
-1.Prevents incorrect or incomplete data
+1.Prevents incorrect or incomplete data.
 
-2.Improves security and prevents misuse
+2.Improves security and prevents misuse.
 
-3.Reduces form submission errors
+3.Reduces form submission errors.
 
-4.Enhances user experience
+4.Enhances user experience.
 
-5.Maintains accurate and clean data records
+5.Maintains accurate and clean data records.
